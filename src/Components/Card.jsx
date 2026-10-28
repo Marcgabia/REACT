@@ -1,4 +1,4 @@
-import "./styles/cards.css";
+import "./styles/card.css";
  
 function Card({ name, description }) {
   return (
